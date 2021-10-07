@@ -17,4 +17,6 @@
 栈长：S.top+1;            
 
 3.2 顺序栈的基本操作<br>
-1.InitSta    
+1.`void InitStack(SqDtack S){<br>
+    S.top=-1;<br>
+}`
